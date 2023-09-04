@@ -9,7 +9,7 @@ function App() {
       <Info />
       <Form />
       <Content />
-      <p className='author_name'>Created by <h1>Doniyorjon</h1></p>
+      <div className='author_name'>Created by <h1>Doniyorjon</h1></div>
     </div>
   );
 }
